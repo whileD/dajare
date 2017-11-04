@@ -17,3 +17,4 @@ These dajare are licensed under CC0.
 - 雨「アーメン」
 - 皿出してサラダ盛る
 - 最高にサイコ
+- ハワイについてはワイは知らん
